@@ -1,0 +1,4 @@
+key,distinct_keys,maximum_records_per_key,median_records_per_key,top_10_percent_key_count,top_10_percent_record_share_pct
+State,49,2001,82,5,52.101260756453875
+Customer ID,793,37,12,80,20.192115269161498
+Sub-Category,17,1523,466,2,28.94736842105263

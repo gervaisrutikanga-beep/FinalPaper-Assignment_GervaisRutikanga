@@ -1,0 +1,13 @@
+mode,reducer,input_records
+no_combiner,Reducer 1,2483
+no_combiner,Reducer 2,1277
+no_combiner,Reducer 3,4776
+no_combiner,Reducer 4,1458
+combiner,Reducer 1,106
+combiner,Reducer 2,61
+combiner,Reducer 3,128
+combiner,Reducer 4,48
+in_mapper,Reducer 1,106
+in_mapper,Reducer 2,61
+in_mapper,Reducer 3,128
+in_mapper,Reducer 4,48
